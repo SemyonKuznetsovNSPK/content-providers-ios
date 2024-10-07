@@ -35,7 +35,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/SemyonKuznetsovNSPK/GRDB.swift",
-            exact: "5.26.1-patch.2"
+            exact: "5.26.1-patch.3"
         ),
         .package(
             url: "https://github.com/roxiemobile/swift-commons-ios",
