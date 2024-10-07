@@ -22,8 +22,8 @@ let package = Package(
     dependencies: [
         .package(path: "FileSystem"),
         .package(
-            url: "https://github.com/roxiemobile-forks/GRDB.swift",
-            exact: "5.26.1-patch.1"
+            url: "https://github.com/SemyonKuznetsovNSPK/GRDB.swift",
+            exact: "5.26.1-patch.2"
         ),
         .package(
             url: "https://github.com/weichsel/ZIPFoundation",
