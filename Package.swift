@@ -34,7 +34,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/roxiemobile-forks/GRDB.swift",
+            url: "https://github.com/SemyonKuznetsovNSPK/GRDB.swift",
             exact: "5.26.1-patch.2"
         ),
         .package(
